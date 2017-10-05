@@ -1,8 +1,8 @@
 # Site settings
-title: Connaissance
-email: eclaire.reese@gmail.com
-description: "Les mots que j'ai appris"
-baseurl: /connaissance
+title: wvl
+email: samuel[punkt]mnet[at]gmail[punkt]com 
+description: "Veranlassen statt nachlassen"
+baseurl: /wvl
 url: "http://samnet.github.io/connaissance"
 
 # Build settings
