@@ -1,9 +1,9 @@
 # Site settings
-title: wvl
+title: wvn
 email: samuel[punkt]mnet[at]gmail[punkt]com 
 description: "Veranlassen statt nachlassen"
-baseurl: /wvl
-url: "http://samnet.github.io/connaissance"
+baseurl: /wvn
+url: "http://samnet.github.io/wvn"
 
 # Build settings
 markdown: kramdown
