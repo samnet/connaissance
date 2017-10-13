@@ -35,4 +35,4 @@ categories: mots
  
 **danke für das Erwarten**: merci pour l'attente
  
-** etw (a) beantragen **: solliciter qc / faire une demande de qc [admin]
+**etw (a) beantragen**: solliciter qc / faire une demande de qc [admin]
