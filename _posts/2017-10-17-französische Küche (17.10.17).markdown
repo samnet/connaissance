@@ -1,11 +1,9 @@
- 
 ---
 layout: post
 title: "französische Küche (05.10.17)"
 date: 2017-10-17 09:23:37
 categories: mots
 ---
-
 
 **der Koch (-"er)**: le cuisinier
 
