@@ -21,7 +21,7 @@ categories: mots
 
 **kosten**: gouter (to taste)
 
-**schmecken **: to taste (mais pas gouter)
+**schmecken**: to taste (mais pas gouter)
 
 **der Ofen**: le four
 
