@@ -39,4 +39,6 @@ categories: mots
 
 **Schwamm drüber**: passons l'éponge
 
+**französische küche**: cuisine française
+
 **üblich**: so, wie es meistens oder normalerweise ist
