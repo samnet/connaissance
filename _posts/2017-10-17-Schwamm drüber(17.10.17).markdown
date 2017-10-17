@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "französische Küche (05.10.17)"
+title: "Schwamm drüber (05.10.17)"
 date: 2017-10-17 09:23:37
 categories: mots
 ---
@@ -36,5 +36,7 @@ categories: mots
 **die Kelle**: la louche
 
 **der Schrank**: le placard
+
+**Schwamm drüber**: passons l'éponge
 
 **üblich**: so, wie es meistens oder normalerweise ist
