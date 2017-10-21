@@ -1,0 +1,35 @@
+---
+title: So reich macht das Studium nicht
+layout: post
+categories: mots
+date: 2017-10-20 09:23:37
+---
+
+**das Forschungsprogramm**: projet de recherche
+
+**die Forschungsgemeinschaft**: research community
+
+**der Forschungsbereich / das Forschungsgebiet**: area of research
+
+**das Forschungspapier**: research paper
+
+**der wissenschaftlicher Mitarbeiter**: research assistant
+
+**die Doktorarbeit**: thesis
+
+**die Skalierbarkeit**: scalability
+
+**die Interaktion**: interaction
+
+**ein verwandtes Thema**: un th?me rattach?
+
+**ein Thema besprechen**: discuter d?un th?me
+
+**das Thema**: un th?me
+
+**sein Studium abbrechen**: arr?ter ses ?tudes
+
+**sein Studium abschliessen**: finir ses ?tudes
+
+**der Studiengang**: le cursus
+
