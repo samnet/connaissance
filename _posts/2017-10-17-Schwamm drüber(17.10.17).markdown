@@ -17,6 +17,10 @@ categories: mots
 
 **anbraten**: griller plus rapidement
 
+**sieden**: bouillir
+
+**die Kochplatte**: le récheau
+
 **der Geschmack (-"e)**: le gout
 
 **kosten**: gouter (to taste)
