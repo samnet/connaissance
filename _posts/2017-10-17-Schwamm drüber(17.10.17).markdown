@@ -42,3 +42,9 @@ categories: mots
 **französische küche**: cuisine française
 
 **üblich**: so, wie es meistens oder normalerweise ist
+
+**das Gewürz (-e)**: l'épice
+
+**der Pfeffer**: le poivre
+
+**die PEtersilie**: le persil
