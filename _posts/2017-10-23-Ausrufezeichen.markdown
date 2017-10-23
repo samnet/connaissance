@@ -17,7 +17,7 @@ date: 2017-10-23 09:23:37
 
 **das Ausrufezeichen (-en)**: point d'exclamation
 
-**versenden, versendete, versandt **: expédier
+**versenden, versendete, versandt**: expédier
 
 **jdm Bescheid geben, dass ?**: avertir qn, que ?
 
