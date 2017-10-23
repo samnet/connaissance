@@ -52,3 +52,14 @@ categories: mots
 **der Pfeffer**: le poivre
 
 **die PEtersilie**: le persil
+
+**der Blumenkohl**: le choux
+
+**der Brokkoli**: le brocoli
+
+**der Fisch (-e) **: un poisson
+
+**das Fischgericht (-e)**: un plat de poisson
+
+**der Teller (-)**: l'assiette
+
