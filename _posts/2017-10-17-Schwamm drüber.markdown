@@ -57,7 +57,7 @@ categories: mots
 
 **der Brokkoli**: le brocoli
 
-**der Fisch (-e) **: un poisson
+**der Fisch (-e)**: un poisson
 
 **das Fischgericht (-e)**: un plat de poisson
 
