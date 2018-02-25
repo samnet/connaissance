@@ -23,10 +23,16 @@ date: 2017-10-27 09:23:37
 
 **dampfen vs. etw dämpfen**: dégager de la vapeur vs. atténuer/tamiser qc
 
-**Kostümierung vs. Verkleidun**: ... hat mann mir auf SO erklärt
+**Kostümierung vs. Verkleidung**: ... hat man mir auf SO erklärt
 
 **das Feuerwerk (-e)**: le feu d'artifice
 
 **das Licht ausmachen**: éteindre la lumière
 
 **das Licht anmachen**: allumer la lumière
+
+**anprobieren vs. ausprobieren vs. kosten vs. versuchen**: hat mir Mauro in Bern erklärt
+
+**das Regal**: une armoire
+
+**dreist**: osé (péjoratif)/éhonté
