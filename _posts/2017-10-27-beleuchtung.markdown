@@ -36,3 +36,5 @@ date: 2017-10-27 09:23:37
 **das Regal**: une armoire
 
 **dreist**: osé (péjoratif)/éhonté
+
+**das Leintuch**: drap de lit
